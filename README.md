@@ -1,4 +1,4 @@
-# Actor
+# Actor Release
 
 Actor is a local-first AI workbench for software teams. It brings agent chat, project context, terminal workflows, files, permissions, personas, and first-party app integrations into one desktop surface.
 
